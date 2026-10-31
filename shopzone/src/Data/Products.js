@@ -28,12 +28,12 @@ const products = [
   },
   {
   id: 4,
-  name: "Table Fan",
+  name: "Stylish Handbag",
   price: 1299,
-  category: "Home",
+  category: "Fashion",
   rating: 4.5,
-  image: "https://lcdn.bricostore.ro/media/catalog/product/f/t/ft3021m_3_b662b5a6.jpg",
-  description: "A compact table fan for comfortable airflow at home."
+  image: "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600&auto=format&fit=crop",
+  description: "A stylish handbag for everyday use."
 },
   {
     id: 5,
